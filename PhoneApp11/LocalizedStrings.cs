@@ -10,5 +10,12 @@ namespace PhoneApp11
         private static AppResources _localizedResources = new AppResources();
 
         public AppResources LocalizedResources { get { return _localizedResources; } }
+
+
+
+        private void Test()
+        {
+ 
+        }
     }
 }
